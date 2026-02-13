@@ -1,0 +1,7 @@
+edugpt_env/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.log
+.ipynb_checkpoints/
